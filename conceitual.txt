@@ -1,0 +1,30 @@
+Questão 1:
+Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+
+Resposta:
+A camada 2 do modelo OSI é a camada de enlace, que é responsável pelo envio de quadros e controle de fluxo, ela trata da comunicação 
+entre dispositivos que estão fisicamente conectados por meio de um meio de comunicação compartilhado. É utilizado o endereço MAC para identificar os
+dispositivos da rede e seus prinicipais protocolos são Ethernet e Wi-Fi.
+
+Já a camada 3, é a camada de rede, que é responsável pelo roteamento e encaminhamento dos dados entre diferentes redes. Ela utiliza o endereço IP
+para identificar os dispositivos de uma rede e seus prinicipais protocolos são o IPV4 e o IPV6.
+
+Questão 2:
+Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução OpenSource 
+como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
+
+Resposta:
+Os pontos fortes de adotar uma solução proprietária é que normalmente possuem um melhor suporte, você pode ter funcionalidades mais específicas para o seu caso
+e costumam ser mais fáceis de realizar a integração. Já os fracos seriam o custo para a solução, a dependência que você fica de quem produziu a solução e a 
+falta de transparência por não ter acesso ao código.
+
+Os pontos fortes de uma soluçã oopen source seriam o custo que é gratuito, a transparência pois tem acesso ao código fonte e a ajuda da comunidade ativa
+que gerencia a solução. Os fracos seriam um suporte mais limitado e uma possível dificuldade em aprender a utilizar e integrar a solução.
+
+Questão 3:
+O que seria um projeto OpenSource? Como empresas podem adotar tais tecnologias e o que isso acarreta?
+
+Resposta:
+Um projeto de OpenSource seria um projeto de código aberto, que todos possuem acesso ao código fonte do programa e qualquer um pode visualizar, utilizar e mexer nele.
+As empresas podem adotar essas tecnologias que normalmente não possuem custo, porém ficará a cargo delas realizar todas as manutenções e mudanças para conseguir integrá-la
+no que for necessário.
